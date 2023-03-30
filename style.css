@@ -10614,8 +10614,9 @@ a.theme-btn-on-bg:hover, a.theme-btn-on-bg:focus, a.theme-btn-on-bg:active, .the
 }
 
 .resume-header {
-  background: #3582C4;
-  color: rgba(255, 255, 255, 0.9);
+  background-image: url('topo.jpg');
+  --background: #3582C4;
+  color: rgba(0, 0, 0, 0.9);
   height: 220px;
 }
 
