@@ -1,0 +1,474 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <title>M. Fernanda Ayala</title>
+
+    <!-- Meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Currículum">
+    <link rel="shortcut icon" href="favicon.ico">
+
+    <!-- Google Font -->
+    <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900" rel="stylesheet">
+
+    <!-- FontAwesome JS-->
+    <script defer src="assets/fontawesome/js/all.min.js"></script>
+
+    <!-- Theme CSS -->
+    <link id="theme-style" rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<article class="resume-wrapper text-center position-relative">
+    <div class="resume-wrapper-inner mx-auto text-start bg-white shadow-lg">
+        <header class="resume-header pt-4 pt-md-0">
+            <div class="row">
+                <div class="col-block col-md-auto resume-picture-holder text-center text-md-start">
+                    <img class="picture" src="images/MF.jpg" alt="">
+                </div><!--//col-->
+                <div class="col ">
+                    <div class="row p-2 justify-content-center justify-content-md-between">
+                        <div class="primary-info col-md-8">
+                            <h1 class="name mt-0 mb-1 text-white text-uppercase">M. Fernanda Ayala</h1>
+                            <div class="title mb-1" style="font-size: 1.4rem;">Information Management | Monitoring | Disaster Risk Management </div>
+                            <div class="title mb-3">Geography and Environmental Engineer  </div>
+                            <ul class="list-unstyled">
+                                <li class="mb-2"><a class="text-link" href='https://mail.google.com/mail/?view=cm&fs=1&to=maferayala92@gmail.com'><i
+                                        class="far fa-envelope fa-fw me-2" data-fa-transform="grow-3"></i>maferayala92@gmail.com</a>
+                                </li>
+                                <li><a class="text-link" href="#"><i class="fas fa-mobile-alt fa-fw me-2"
+                                                                     data-fa-transform="grow-6"></i>+ 593 992802474</a></li>
+                            </ul>
+                        </div><!--//primary-info-->
+                        <div class="secondary-info col-md-4 mt-6">
+                            <ul class="resume-social list-unstyled">
+                                <li class="mb-3"><a class="text-link" href="https://www.linkedin.com/in/mfayala/"><span class="fa-container text-center me-2"><i class="fab fa-linkedin-in fa-fw"></i></span>linkedin.com/in/mfayala</a></li>
+                                <li class="mb-3"><a class="text-link" href="https://github.com/maferayala"><span class="fa-container text-center me-2"><i class="fab fa-github-alt fa-fw"></i></span>github.com/maferayala</a></li>
+                                <li class="mb-3"><a class="text-link" href="https://www.researchgate.net/profile/Maria-Ayala-17"><span class="fa-container text-center me-2"><i class="fab fa-researchgate fa-fw"></i></span>researchgate.net/profile /Maria Ayala 17</a></li>
+                            </ul>
+                        </div><!--//secondary-info-->
+                    </div><!--//row-->
+                </div><!--//col-->
+            </div><!--//row-->
+        </header>
+
+        <div class="resume-body p-5">
+            <section class="resume-section summary-section mb-5">
+                <h2 class="resume-section-title text-uppercase font-weight-bold pb-3 mb-3">Career Summary</h2>
+                <div class="resume-section-content">
+                    <p align="justify" class="mb-0">
+
+                 I have over seven years of experience in information management for humanitarian organizations, working with vulnerable populations, including refugees and people displaced by crises and conflicts. 
+                 I am skilled in designing data collection tools, storing and protecting sensitive information, as well as extracting, processing, analyzing and producing high quality interactive data visualizations to support evidence-based decision-making throughout the entire project cycle, from needs assessments to monitoring, evaluation and learning. I have also led field data collection teams, developing tools and ensuring compliance with strict data protection policies of both humanitarian organizations and the United Nations. I am an organized, responsible and creative professional, strongly committed to humanitarian action.
+            <div class="row">
+                <div class="col-lg-9">
+                    <section class="resume-section experience-section mb-5">
+                        <h2 class="resume-section-title text-uppercase font-weight-bold pb-3 mb-3">Work Experience</h2>
+                        <div class="resume-section-content">
+                            <div class="resume-timeline position-relative">
+                                <article class="resume-timeline-item position-relative pb-5">
+
+                                      <div class="resume-timeline-item-header mb-2">
+                                        <div class="d-flex flex-column flex-md-row">
+                                            <h3 class="resume-position-title font-weight-bold mb-1">Senior Information
+                                                Management Assistant</h3>
+                                            <div class="resume-company-name ms-auto">United Nations High Commissioner <br />for Refugees - Ecuador</div>
+                                        </div><!--//row-->
+                                        <div class="resume-position-time mt-n20">2023 - 2025</div>
+                                    </div><!--//resume-timeline-item-header-->
+                                    <div class="resume-timeline-item-desc">
+                                        <p align="justify">
+En este rol, lideré actividades estratégicas orientadas a la generación de información confiable y actualizada, con el propósito de identificar riesgos, tendencias y patrones que impactan a las personas en situación de vulnerabilidad en Ecuador.
+</p>
+                                        <h4 class="resume-timeline-item-desc-heading font-weight-bold">
+                                            Logros:</h4>
+                                        <p>Algunos de mis principales logros durante esta experiencia son:</p>
+                                        <ul>
+                                              
+  <li align="justify">
+I managed the database of the indicators monitoring system (OSMOSYS), ensuring its sustainability, security, and optimal performance. My responsibilities included performing regular backups, configuring customized disaggregations for indicators, analyzing information collected by partners and through UNHCR’s direct implementation, executing data queries, publishing dashboards and infographics based on reported data, and applying technical updates to maintain system functionality. These efforts enabled UNHCR to effectively use information for monitoring and evaluation of their activities, as well as for reporting to donors and aligning with UNHCR’s global results framework.
+
+I also led the creation of data collection tools for the analysis and presentation of key data to monitor UNHCR protection efforts in Ecuador. My tasks included designing questionnaires, defining sampling methodologies, and supervising the technical aspects of national surveys conducted periodically with refugees and persons in need of international protection.
+
+
+  
+Administré la base de datos del Sistema de Monitoreo OSMOSYS utilizado por ACNUR para el seguimiento de su implementación operativa, medidos a través de indicadores multinivel. Me encargué de garantizar la sostenibilidad del sistema y el mantenimiento del servidor que lo alberga, asegurando la integridad y seguridad de una base de datos robusta y de gran volumen.
+Entre mis principales responsabilidades estuvieron: realizar respaldos periódicos de la base de datos, ejecutar consultas para la extracción y análisis de información, configurar desagregaciones personalizadas para indicadores, publicar tableros e infografías con los datos reportados, y aplicar actualizaciones técnicas al sistema. Estas acciones permitieron a ACNUR y a sus socios utilizar la información de manera efectiva para el seguimiento de sus actividades.
+Una de mis contribuciones más destacadas fue formar parte del equipo técnico multifuncional encargado de escalar el sistema a nivel regional, logrando su implementación en cuatro países adicionales. En este proceso, brindé asistencia técnica y compartí buenas prácticas basadas en mi experiencia directa en la gestión del sistema y su base de datos.
+                                            </li>
+  <li align="justify">
+                                   Lideré la recolección, análisis y presentación de datos esenciales para el monitoreo de las acciones de protección impulsadas por el Alto Comisionado de las Naciones Unidas para los Refugiados (ACNUR) en Ecuador. Mis aportes fueron fundamentales para reportar el impacto y los resultados de la estrategia operativa, alineada con el marco de resultados globales de la organización.
+Entre los productos más destacados que desarrollé se encuentran infografías, tableros dinámicos e incluso mapas interactivos, los cuales facilitaron la toma de decisiones a nivel estratégico, respaldaron presentaciones ante donantes y fortalecieron los procesos de rendición de cuentas sobre las actividades de ACNUR en el país.
+                                            </li>
+
+                                            
+<li align="justify">
+Diseñé cuestionarios para el levantamiento de información, definí la metodología de muestreo y supervisé los aspectos técnicos de encuestas nacionales aplicadas periódicamente a personas refugiadas en el país. Como valor agregado, incorporé el componente de georreferenciación a nivel de barrio, lo que permitió vincular los datos a unidades territoriales específicas y facilitó un primer acercamiento a análisis comunitarios.
+Las encuestas abarcaron aproximadamente 3.000 hogares por ciclo, y sus resultados fueron fundamentales para monitorear indicadores de impacto y resultados en el marco de la estrategia plurianual de ACNUR en Ecuador.
+            </li>
+                                            <li align="justify">
+En el ámbito de los productos visuales, tomé la iniciativa de diseñar e implementar un hub de difusión de información, estructurado para centralizar y facilitar el acceso a datos clave. Esta plataforma tuvo una excelente acogida y actualmente es utilizada de forma regular por las ocho unidades de terreno de la organización. A través del hub, los equipos pueden consultar tableros, mapas, estadísticas y otros productos visuales que respaldan la toma de decisiones informadas y la formulación de proyectos basados en evidencia.                                            </li>
+
+                                            
+                                            
+                                        </ul>
+                                    
+
+</div><!--//resume-timeline-item-desc-->
+
+</article><!--//resume-timeline-item-->
+
+<article class="resume-timeline-item position-relative pb-5">
+    <div class="resume-timeline-item-header mb-2">
+        <div class="d-flex flex-column flex-md-row">
+            <h3 class="resume-position-title font-weight-bold mb-1">Asistente de Gestión de la Información</h3>
+            <div class="resume-company-name ms-auto">Alto Comisionado de las Naciones Unidas<br />para los Refugiados - Ecuador</div>
+        </div><!--//row-->
+        <div class="resume-position-time mt-n20">2021 - 2023</div>
+    </div><!--//resume-timeline-item-header-->
+    <div class="resume-timeline-item-desc">
+        <p align="justify">
+Mi función principal consistió en elaborar productos de información a partir de fuentes primarias y secundarias, con el fin de aportar a una comprensión más profunda de las condiciones de vida de las personas refugiadas. Estos productos también contribuyeron a visibilizar las acciones de protección implementadas por ACNUR y sus socios en cada periodo de reporte.        </p>
+        <h4 class="resume-timeline-item-desc-heading font-weight-bold">Logros:</h4>
+        <p>Algunos de mis principales logros durante esta experiencia son:</p>
+        <ul>
+            <li align="justify">
+Llevé a cabo sesiones de mapeo comunitario y participativo en territorio, utilizando herramientas que permitieron a ACNUR recopilar información de primera mano de actores clave. Esta actividad facilitó la identificación de zonas y la geolocalización de actividades clave relacionadas con medios de vida, integración comunitaria y los riesgos que enfrentan las personas refugiadas en el país.
+Pude contribuir con mi experiencia en análisis geográfico al fortalecimiento de las metodologías ya existentes, aplicándolas tanto en las principales ciudades del país como en localidades ubicadas en zonas fronterizas con contextos de seguridad sensibles.
+            </li>
+            <li align="justify">
+Diseñé productos de visualización de datos atractivos y fáciles de interpretar, integrando diversas fuentes de información, principalmente datos primarios obtenidos a través de encuestas a hogares, y fuentes secundarias como las estadísticas nacionales disponibles. Estos productos fueron especialmente valiosos para el área central de protección de ACNUR, ya que permitieron una mejor comprensión de las necesidades de las personas refugiadas y sirvieron como herramientas clave para el diseño de proyectos basados en evidencia.
+Asimismo, fueron utilizados por los socios de ACNUR en territorio y por autoridades gubernamentales responsables de tomar decisiones orientadas a mejorar las condiciones de vida de las personas en situación de movilidad humana.
+            </li>
+            
+            <li align="justify">
+Recolecté información cualitativa mediante entrevistas semiestructuradas dirigidas a grupos focales de personas refugiadas en distintas regiones del país. Me encargué de sistematizar y analizar esta información utilizando software avanzado de análisis cualitativo (QDA), lo que permitió complementar los datos cuantitativos recolectados periódicamente.
+Este enfoque mixto permitió a ACNUR enriquecer sus estudios técnicos con insumos directamente provenientes de las comunidades, logrando contextualizar y visibilizar con mayor precisión las condiciones de vida en cada territorio.
+            </li>
+        </ul>
+        <h4 class="resume-timeline-item-desc-heading font-weight-bold">Tecnologías utilizadas:</h4>
+        <ul class="list-inline">
+            <li class="list-inline-item"><span class="badge bg-secondary badge-pill">QGIS</span></li>
+            <li class="list-inline-item"><span class="badge bg-secondary badge-pill">ArcGIS</span></li>
+            <li class="list-inline-item"><span class="badge bg-secondary badge-pill">PowerBI</span></li>
+            <li class="list-inline-item"><span class="badge bg-secondary badge-pill">Adobe Illustrator</span></li>
+            <li class="list-inline-item"><span class="badge bg-secondary badge-pill">KoboToolbox</span></li>
+            <li class="list-inline-item"><span class="badge bg-secondary badge-pill">ProgresV4</span></li>
+            <li class="list-inline-item"><span class="badge bg-secondary badge-pill">SQL</span></li>
+            <li class="list-inline-item"><span class="badge bg-secondary badge-pill">PostgreSQL</span></li>
+
+            <li class="list-inline-item"><span class="badge bg-secondary badge-pill">AtlasTi</span></li>
+
+            <li class="list-inline-item"><span class="badge bg-secondary badge-pill">Visual Studio Code</span></li>
+            <li class="list-inline-item"><span class="badge bg-secondary badge-pill">Atom</span></li>
+            <li class="list-inline-item"><span class="badge bg-secondary badge-pill">HTML</span></li>
+            <li class="list-inline-item"><span class="badge bg-secondary badge-pill">CSS</span></li> 
+        <li class="list-inline-item"><span class="badge bg-secondary badge-pill">Jupyter Notebook</span></li>
+
+
+            
+            
+            
+        </ul>
+    </div><!--//resume-timeline-item-desc-->
+</article><!--//resume-timeline-item-->
+
+                              <article class="resume-timeline-item position-relative pb-5">
+
+    <div class="resume-timeline-item-header mb-2">
+        <div class="d-flex flex-column flex-md-row">
+            <h3 class="resume-position-title font-weight-bold mb-1">Técnica Nacional de Gestión de Información y Monitoreo</h3>
+            <div class="resume-company-name ms-auto">Cruz Roja Ecuatoriana</div>
+        </div>
+        <div class="resume-position-time">2018 - 2021</div>
+    </div>
+    <div class="resume-timeline-item-desc">
+        <p>
+Ocupé este cargo dentro del equipo de Gestión de Riesgos de Desastres para implementar el programa de acción anticipatoria liderado por la Cruz Roja Alemana en la región. Ecuador fue un país piloto, por lo que tuve la oportunidad de desarrollar la primera metodología de análisis de riesgo para la elaboración de tres planes de acción temprana, enfocados en caída de ceniza volcánica, inundaciones relacionadas con el fenómeno de El Niño e inundaciones repentinas ocasionadas por lluvias extremas.        </p>
+        <h4 class="resume-timeline-item-desc-heading font-weight-bold">Logros</h4>
+        <p>Algunos de mis principales logros durante esta experiencia son:</p>
+        <ul>
+            <li align="justify">
+                El modelo de evaluación de riesgos, con cálculos diferenciados para cada amenaza, que diseñé, se convirtió en la base para otros países de la región que adoptaban el programa de financiamiento basado en pronósticos. Capacité en este enfoque de Acción Anticipatoria a colegas de las Sociedades Nacionales de la Cruz Roja de: Honduras, Guatemala, Costa Rica, Argentina y Perú.
+            </li>
+            <li align="justify">
+                Di el criterio técnico para la activación del Plan de Acción Temprana para una acción activada por los pronósticos de la erupción del volcán Sangay el 20 de septiembre de 2020. La metodología que desarrollé, basada en una evaluación de riesgos, fue efectiva, permitiendo a la Cruz Roja Ecuatoriana responder con acciones tempranas para asistir a 1.000 familias en 7 de las comunidades más afectadas de la provincia de Chimborazo. La activación se realizó durante la emergencia sanitaria por COVID-19, y tuve la oportunidad de acompañar al equipo en el territorio adaptando las acciones de respuesta a las restricciones de la pandemia. Esta experiencia me dio las herramientas necesarias para aportar en plataformas de dialogo globales en donde pude exponer las acciones efectivas, buenas práctivas, lecciones aprendidas y criterios clave para el rediseño del mecanismo. 
+            </li>
+            <li align="justify">
+                Impulsé la transición de la Cruz Roja Ecuatoriana hacia el uso de nuevas tecnologías, promoviendo la creación de la Unidad de Gestión de la Información y Monitoreo. Allí proporcioné información situacional sobre varias emergencias, incluyendo el aluvión de Pinar Alto y la erosión regresiva del río Coca, donde apliqué metodologías de fotogrametría y pude realice levantamiento de información con drones para proporcionar productos de respuesta rápida.
+            </li>
+        </ul>
+        <h4 class="resume-timeline-item-desc-heading font-weight-bold">Tecnologías utilizadas:</h4>
+        <ul class="list-inline">
+            <li class="list-inline-item"><span class="badge bg-secondary badge-pill">QGIS</span></li>
+            <li class="list-inline-item"><span class="badge bg-secondary badge-pill">ArcGIS Pro</span></li>
+            <li class="list-inline-item"><span class="badge bg-secondary badge-pill">KoboToolbox</span></li>
+            <li class="list-inline-item"><span class="badge bg-secondary badge-pill">Agisoft Photoscan</span></li>
+            <li class="list-inline-item"><span class="badge bg-secondary badge-pill">DroneDeploy</span></li>
+            <li class="list-inline-item"><span class="badge bg-secondary badge-pill">PowerBI</span></li>
+            <li class="list-inline-item"><span class="badge bg-secondary badge-pill">DEEP</span></li>
+            <li class="list-inline-item"><span class="badge bg-secondary badge-pill">SQL</span></li>
+        </ul>
+    </div>
+
+</article>
+
+<article class="resume-timeline-item position-relative">
+    <div class="resume-timeline-item-header mb-2">
+        <div class="d-flex flex-column flex-md-row">
+            <h3 class="resume-position-title font-weight-bold mb-1">Investigadora Invitada        </h3>
+            <div class="resume-company-name ms-auto">Instituto de Potsdam para la Investigación del Impacto Climático - Alemania</div>
+        </div>
+        <div class="resume-position-time">2017 - 2017</div>
+    </div>
+    <div class="resume-timeline-item-desc">
+        <p align="justify">
+            Investigadora en el proyecto: "Análisis de la dinámica caótica en series temporales de variables meteorológicas de la estación climatológica de Chone, Ecuador".
+        </p>
+        <h4 class="resume-timeline-item-desc-heading font-weight-bold">Logros</h4>
+        <ul>
+            <li align="justify">
+                La Universidad de las Fuerzas Armadas ESPE patrocinó la estancia de investigación, ya que fue clasificado como un proyecto innovador por el Departamento de Ciencias de la Tierra y Construcción. Los resultados de mi investigación motivaron a otros estudiantes a replicar la metodología en la zona amazónica del sur del país.
+            </li>
+        </ul>
+        <h4 class="resume-timeline-item-desc-heading font-weight-bold">Tecnologías utilizadas:</h4>
+        <ul class="list-inline">
+            <li class="list-inline-item"><span class="badge bg-secondary badge-pill">MATLAB</span></li>
+            <li class="list-inline-item"><span class="badge bg-secondary badge-pill">QGIS</span></li>
+        </ul>
+    </div>
+</article>
+
+       </div><!--//línea de tiempo de experiencia-->
+
+</div>
+</section><!--//sección de experiencia-->
+</div>
+<div class="col-lg-3">
+    <section class="resume-section education-section mb-5">
+        <h2 class="resume-section-title text-uppercase font-weight-bold pb-3 mb-3">Educación</h2>
+        <div class="resume-section-content">
+            <ul class="list-unstyled">
+                <li>
+                    <div class="resume-degree font-weight-bold">BSc- Ingeniería Geográfica y del Medio Ambiente</div>
+                    <div class="resume-degree-org">Universidad de las Fuerzas Armadas ESPE</div>
+                    <div class="resume-degree-time">2011 - 2017</div>
+                </li>
+            </ul>
+        </div>
+    </section><!--//sección de educación-->
+
+    <section class="resume-section skills-section mb-5">
+        <h2 class="resume-section-title text-uppercase font-weight-bold pb-3 mb-3">Herramientas</h2>
+        <div class="resume-section-content">
+            <div class="resume-skill-item">
+                <div class="resume-skill-item">
+                    <h4 class="resume-skills-cat font-weight-bold">Herramientas de Gestión de Información y BI</h4>
+                    <ul class="list-unstyled">
+                        <li class="mb-2">
+                            <div class="resume-skill-name">PowerBI</div>
+                            <div class="progress resume-progress">
+                                <div class="progress-bar theme-progress-bar-dark" role="progressbar"
+                                     style="width: 90%" aria-valuenow="25" aria-valuemin="0"
+                                     aria-valuemax="100"></div>
+                            </div>
+                        </li>
+                        <li class="mb-2">
+                            <div class="resume-skill-name">Excel Avanzado</div>
+                            <div class="progress resume-progress">
+                                <div class="progress-bar theme-progress-bar-dark" role="progressbar"
+                                     style="width: 80%" aria-valuenow="25" aria-valuemin="0"
+                                     aria-valuemax="100"></div>
+                            </div>
+                        </li>
+                        <li class="mb-2">
+                            <div class="resume-skill-name">Kobo ToolBox</div>
+                            <div class="progress resume-progress">
+                                <div class="progress-bar theme-progress-bar-dark" role="progressbar"
+                                     style="width: 80%" aria-valuenow="25" aria-valuemin="0"
+                                     aria-valuemax="100"></div>
+                            </div>
+                        </li>
+                        <li class="mb-2">
+                            <div class="resume-skill-name">HTML/CSS/SASS/LESS</div>
+                            <div class="progress resume-progress">
+                                <div class="progress-bar theme-progress-bar-dark" role="progressbar"
+                                     style="width: 40%" aria-valuenow="25" aria-valuemin="0"
+                                     aria-valuemax="100"></div>
+                            </div>
+                        </li>
+                        <li class="mb-2">
+                            <div class="resume-skill-name">Bases de datos (PostgreSQL)</div>
+                            <div class="progress resume-progress">
+                                <div class="progress-bar theme-progress-bar-dark" role="progressbar"
+                                     style="width: 60%" aria-valuenow="25" aria-valuemin="0"
+                                     aria-valuemax="100"></div>
+                            </div>
+                        </li>
+                        <li class="mb-2">
+                            <div class="resume-skill-name">Python</div>
+                            <div class="progress resume-progress">
+                                <div class="progress-bar theme-progress-bar-dark" role="progressbar"
+                                     style="width: 30%" aria-valuenow="25" aria-valuemin="0"
+                                     aria-valuemax="100"></div>
+                            </div>
+                        </li>
+                        <li class="mb-2">
+                            <div class="resume-skill-name">AtlasTI</div>
+                            <div class="progress resume-progress">
+                                <div class="progress-bar theme-progress-bar-dark" role="progressbar"
+                                     style="width: 50%" aria-valuenow="25" aria-valuemin="0"
+                                     aria-valuemax="100"></div>
+                            </div>
+                        </li>
+                    </ul>
+                </div><!--//elemento de habilidad del currículum-->
+                <h4 class="resume-skills-cat font-weight-bold">Tecnologías geográficas</h4>
+                <ul class="list-unstyled mb-4">
+
+                    <li class="mb-2">
+                        <div class="resume-skill-name">SIG (QGIS/ArcGIS Pro)</div>
+                        <div class="progress resume-progress">
+                            <div class="progress-bar theme-progress-bar-dark" role="progressbar"
+                                 style="width: 95%" aria-valuenow="25" aria-valuemin="0"
+                                 aria-valuemax="100"></div>
+                        </div>
+                    </li>
+                    <li class="mb-2">
+                        <div class="resume-skill-name">Agisoft</div>
+                        <div class="progress resume-progress">
+                            <div class="progress-bar theme-progress-bar-dark" role="progressbar"
+                                 style="width: 90%" aria-valuenow="25" aria-valuemin="0"
+                                 aria-valuemax="100"></div>
+                        </div>
+                    </li>
+                    <li class="mb-2">
+                        <div class="resume-skill-name">AutoCAD</div>
+                        <div class="progress resume-progress">
+                            <div class="progress-bar theme-progress-bar-dark" role="progressbar"
+                                 style="width: 75%" aria-valuenow="25" aria-valuemin="0"
+                                 aria-valuemax="100"></div>
+                        </div>
+                    </li>
+                    <li class="mb-2">
+                        <div class="resume-skill-name">DroneDeploy</div>
+                        <div class="progress resume-progress">
+                            <div class="progress-bar theme-progress-bar-dark" role="progressbar"
+                                 style="width: 90%" aria-valuenow="25" aria-valuemin="0"
+                                 aria-valuemax="100"></div>
+                        </div>
+                    </li>
+                </ul>
+            </div><!--//elemento de habilidad del currículum-->
+
+            <div class="resume-skill-item">
+                <h4 class="resume-skills-cat font-weight-bold">Otros</h4>
+                <ul class="list-inline">
+                    <li class="list-inline-item"><span class="badge bg-secondary badge-pill">ERDAS</span></li>
+                    <li class="list-inline-item"><span class="badge bg-secondary badge-pill">Global Mapper</span></li>
+                    <li class="list-inline-item"><span class="badge bg-secondary badge-pill">Git</span></li>
+                    <li class="list-inline-item"><span class="badge bg-secondary badge-pill">Gimp</span></li>
+                    <li class="list-inline-item"><span class="badge bg-secondary badge-pill">DEEP</span></li>
+                    <li class="list-inline-item"><span class="badge bg-secondary badge-pill">SketchUp</span></li>
+                    <li class="list-inline-item"><span class="badge bg-secondary badge-pill">Esri survey 123</span></li>
+                </ul>
+            </div><!--//elemento de habilidad del currículum-->
+        </div><!--contenido de la sección de habilidades-->
+    </section><!--//sección de habilidades-->
+    
+
+    <section class="resume-section language-section mb-5">
+        <h2 class="resume-section-title text-uppercase font-weight-bold pb-3 mb-3">Idiomas</h2>
+        <div class="resume-section-content">
+            <ul class="list-unstyled resume-lang-list">
+                <li class="mb-2"><span class="resume-lang-name font-weight-bold">Español</span> <small class="text-muted font-weight-normal">(Nativo)</small></li>
+                <li class="mb-2 align-middle"><span class="resume-lang-name font-weight-bold">Inglés</span> <small class="text-muted font-weight-normal">(C1)</small></li>
+                <li><span class="resume-lang-name font-weight-bold">Francés</span> <small class="text-muted font-weight-normal">(B1)</small></li>
+            </ul>
+        </div>
+    </section><!--//sección de idiomas-->
+
+    <section class="resume-section language-section mb-5">
+        <h2 class="resume-section-title text-uppercase font-weight-bold pb-3 mb-3">Referencias</h2>
+        <div class="resume-section-content">
+            <ul class="list-unstyled resume-lang-list">
+                <li class="mb-2"><span class="resume-lang-name font-weight-bold">Paúl Ponce</span>
+                  <small class="text-muted font-weight-normal">Oficial de Gestión de Información UNHCR - Ecuador <br />poncecol@unhcr.org</small>
+                </li>
+                <li class="mb-2 align-middle"><span class="resume-lang-name font-weight-bold">Roger Zambrano <br /></span>
+                  <small class="text-muted font-weight-normal">Oficial de Gestión del Riesgo - Cruz Roja Ecuatoriana<br />rzambrano@cruzroja.org.ec</small>
+                </li>
+                <li class="mb-2 align-middle"><span class="resume-lang-name font-weight-bold">Mathieu Destrooper <br /></span> 
+                  <small class="text-muted font-weight-normal">Asesor Regional de Anticipación Cruz Roja Alemana<br />Mathieu.destrooper@germaredcross.org</small>
+                </li>
+            </ul>
+        </div>
+    </section><!--//sección de referencias-->
+
+   <section class="resume-section language-section mb-5">
+                        <h2 class="resume-section-title text-uppercase font-weight-bold pb-3 mb-3">Publicaciones</h2>
+                        <div class="resume-section-content">
+                            <ul class="list-unstyled resume-lang-list">
+                                <li class="mb-2"><span class="resume-lang-name font-weight-bold">1.</span>
+                                  <small
+                                        class="text-muted font-weight-normal">Bucherie , A., Hultquist, C., Adamo, S., Neely, C., Ayala, F., Bazo , J., & Kruczkiewicz , A. (2022). A comparison of
+                                        social vulnerability indices specific to flooding in Ecuador: Principal component analysis (PCA) and expert
+                                        knowledge. International journal of disaster risk reduction 73 , 102897</small>
+                                </li>
+                                <li class="mb-2"><span class="resume-lang-name font-weight-bold">2.</span>
+                                  <small
+                                        class="text-muted font-weight-normal">Kruczkiewicz , A., Bucherie , A., Ayala, F., Hultquist, C., Vergara, H., Mason, S. & De Sherbinin , A. (2021).
+                                        Development of a flash flood confidence index from disaster reports and geophysical susceptibility. Remote
+                                        sensing 13 (14)</small>
+                                </li>
+                                <li class="mb-2"><span class="resume-lang-name font-weight-bold">3.</span>
+                                  <small
+                                        class="text-muted font-weight-normal">Ayala, M. F., Tierra, A., & Carrera Villacrés, D. (2018). Análisis de la dinámica de series temporales de variables
+                                        meteorológicas en la estación climatológica Chone, Ecuador. Geoacta 43 </small>
+                                </li>
+                                <li class="mb-2"><span class="resume-lang-name font-weight-bold">4.</span>
+                                  <small
+                                        class="text-muted font-weight-normal">Ayala, Maria Fernanda, David Carrera Villacrés , and Alfonso Tierra. "Spatial temporal relation between stations
+                                        used for filling missing rainfall data in Chone, Ecuador." Revista Geográfica Venezolana 59 (2018): 298. </small>
+                                </li>
+
+                            </ul>
+                        </div>
+                    </section><!--//Publications-section-->
+
+
+    <section class="resume-section reference-section mb-5">
+        <h2 class="resume-section-title text-uppercase font-weight-bold pb-3 mb-3">Reconocimientos</h2>
+        <div class="resume-section-content">
+            <ul class="list-unstyled resume-awards-list">
+                <li class="mb-2 ps-4 position-relative">
+                    <i class="resume-award-icon fas fa-trophy position-absolute"
+                       data-fa-transform="shrink-2"></i>
+                    <div class="resume-award-name">Beca de movilidad para estancia de investigación</div>
+                    <div class="resume-award-desc">Otorgada por la Universidad de las Fuerzas Armadas ESPE.</div>
+                </li>
+                <li class="mb-0 ps-4 position-relative">
+                    <i class="resume-award-icon fas fa-trophy position-absolute"
+                       data-fa-transform="shrink-2"></i>
+                    <div class="resume-award-name">Diploma de Honor</div>
+                    <div class="resume-award-desc">Otorgado por la Universidad de las Fuerzas Armadas ESPE.</div>
+                </li>
+            </ul>
+        </div>
+    </section><!--//sección de premios-->
+</div>
+</div><!--//fila-->
+</div><!--//cuerpo del currículum-->
+
+</div>
+
+<meta charset="UTF-8">
+<title>Título</title>
+</head>
+<body>
+
+</body>
+</html>
