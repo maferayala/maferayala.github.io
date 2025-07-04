@@ -10618,9 +10618,9 @@ a.theme-btn-on-bg:hover, a.theme-btn-on-bg:focus, a.theme-btn-on-bg:active, .the
 .resume-wrapper-inner {
   max-width: 1000px;
 }
-
+/* aqui va el color del header*/
 .resume-header {
-  background: #59578E;
+  background: #000;
   color: rgba(255, 255, 255, 0.9);
   height: 220px;
 }
